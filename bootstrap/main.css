@@ -1,0 +1,44 @@
+.btn-primary{
+    background-color: yellow;
+}   
+.navbar-inverse{
+background-color: deepskyblue;
+}
+/*
+.active{
+    background-color: red;
+}
+*/
+body{
+    background-color: white;
+}
+#search {
+    font-size: 17px;
+    padding: 6px;
+    height: 40px;
+    
+    
+}
+#
+#myimage{
+    border: 1px solid #000000;
+}
+#ambimg{
+     border: 1px solid #000000;
+}
+
+#mybackground{
+    background-color: dodgerblue;
+}
+
+a#eve:hover{
+    color: white;
+    text-decoration: underline;
+}a#team:hover{
+    color: white;
+    text-decoration: underline;
+}
+a#aboutus:hover{
+    color: white;
+    text-decoration: underline;
+}
